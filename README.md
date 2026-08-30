@@ -32,6 +32,8 @@ The image below shows how to build it. Stand in the center and hold a netherite 
 
 ***The Altar was balanced around maxed out endgame gear in hard difficulty.***
 
+![Altar](totem_build.png)
+
 <details>
 <summary>SPOILER WARNING: What does the Altar do? </summary>
 
